@@ -1,0 +1,9 @@
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight"> <!-- Color for the ripple effect -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Background color for non-clicked state -->
+            <corners android:radius="12dp" /> <!-- Radius for rounded corners -->
+        </shape>
+    </item>
+</ripple>

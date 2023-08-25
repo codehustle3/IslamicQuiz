@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_margin="0dp"
+        android:background="@drawable/main_card_shape"
+
+        app:cardPreventCornerOverlap="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/main_card_shape">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/quiz_num_Recycler"
+                android:layout_width="match_parent"
+                android:scrollbars="horizontal"
+                android:layout_height="?actionBarSize"
+                tools:listitem="@layout/quiz_ans_num_item"
+                android:layout_margin="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:weightSum="10">
+
+                <LinearLayout
+                    android:id="@+id/quiz_category_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="10"
+                    android:orientation="vertical"
+                    android:weightSum="10">
+
+                    <TextView
+                        android:id="@+id/quiz_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_gravity="start"
+                        android:layout_margin="10dp"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:text="@string/quiz_categories"
+                        android:textColor="@color/black"
+                        android:textSize="22dp" />
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/quiz_ans_recycler"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="5.6"
+                        tools:listitem="@layout/quiz_ans_item" />
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:weightSum="10">
+                        <ImageView
+                            android:id="@+id/previous_q"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_weight="1.5"
+                            android:layout_margin="5dp"
+                            android:background="@drawable/bg_round_next"
+                            android:padding="2dp"
+                            android:src="@drawable/back_btn"
+                            app:tint="@color/white" />
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.5"/>
+                        <TextView
+                            android:id="@+id/submit_quiz"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="6"
+                            android:gravity="center"
+                            android:textColor="@color/app_bg_light"
+                            android:background="@drawable/submit_quiz"
+                            android:text="@string/end_quiz"
+                            android:textSize="18dp"/>
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.5"/>
+                        <ImageView
+                            android:id="@+id/next_q"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_weight="1.5"
+                            android:rotation="180"
+                            android:layout_margin="5dp"
+                            android:background="@drawable/bg_round_next"
+                            android:padding="2dp"
+                            android:src="@drawable/back_btn"
+                            app:tint="@color/white" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

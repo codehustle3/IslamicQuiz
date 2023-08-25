@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_file"
+    app:startDestination="@id/mainQuizFragment">
+
+    <fragment
+        android:id="@+id/mainQuizFragment"
+        android:name="com.example.islamicquis.Fragments.MainQuizFragment"
+        android:label="fragment_main_quiz"
+        tools:layout="@layout/fragment_main_quiz" >
+        <action
+            android:id="@+id/action_mainQuizFragment_to_quizDetailFragment"
+            app:destination="@id/quizDetailFragment" />
+        <action
+            android:id="@+id/action_mainQuizFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_mainQuizFragment_to_quizHistoryFragment"
+            app:destination="@id/quizHistoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizDetailFragment"
+        android:name="com.example.islamicquis.Fragments.QuizDetailFragment"
+        android:label="fragment_quiz_detail"
+        tools:layout="@layout/fragment_quiz_detail" >
+        <action
+            android:id="@+id/action_quizDetailFragment_to_quizAnswersFragment"
+            app:destination="@id/quizAnswersFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizAnswersFragment"
+        android:name="com.example.islamicquis.Fragments.QuizAnswersFragment"
+        android:label="fragment_quiz_answers"
+        tools:layout="@layout/fragment_quiz_answers" >
+        <action
+            android:id="@+id/action_quizAnswersFragment_to_quizResultFragment"
+            app:destination="@id/quizResultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizHistoryFragment"
+        android:name="com.example.islamicquis.Fragments.QuizHistoryFragment"
+        android:label="fragment_quiz_history"
+        tools:layout="@layout/fragment_quiz_history" />
+    <fragment
+        android:id="@+id/quizResultFragment"
+        android:name="com.example.islamicquis.Fragments.QuizResultFragment"
+        android:label="fragment_quiz_result"
+        tools:layout="@layout/fragment_quiz_result" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.islamicquis.Fragments.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.example.islamicquis.Fragments.SignInFragment"
+        android:label="fragment_sign_in"
+        tools:layout="@layout/fragment_sign_in" />
+</navigation>

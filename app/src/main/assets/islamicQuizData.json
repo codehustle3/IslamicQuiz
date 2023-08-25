@@ -1,0 +1,883 @@
+{
+   "categories":[
+      {
+         "category":"Companions of the Prophet Muhammad (PBUH)",
+         "categoryImage":"https://i.yaqeeninstitute.org/?src=img/paper/018/018_hero_default.jpg&w=3840",
+         "questions":[
+            {
+               "question":"Who are the Companions of the Prophet Muhammad (PBUH)?",
+               "options":[
+                  "The immediate family members of Prophet Muhammad",
+                  "The disciples and followers of Prophet Muhammad who met him during his lifetime",
+                  "Later Islamic scholars and jurists",
+                  "Non-Muslim contemporaries of Prophet Muhammad"
+               ],
+               "answer":"The disciples and followers of Prophet Muhammad who met him during his lifetime"
+            },
+            {
+               "question":"What does the term 'ṣaḥāba' mean?",
+               "options":[
+                  "The written records of Prophet Muhammad's life",
+                  "The successors to the Prophet's leadership",
+                  "The companions or associates of Prophet Muhammad",
+                  "The revelations received by Prophet Muhammad"
+               ],
+               "answer":"The companions or associates of Prophet Muhammad"
+            },
+            {
+               "question":"What role did the Companions' testimony play in Islamic tradition?",
+               "options":[
+                  "It was disregarded by later scholars",
+                  "It formed the basis of Islamic tradition and jurisprudence",
+                  "It was only important for political matters",
+                  "It had no significant role in the development of Islam"
+               ],
+               "answer":"It formed the basis of Islamic tradition and jurisprudence"
+            },
+            {
+               "question":"What is the meaning of the term 'Tābi'ūn'?",
+               "options":[
+                  "The followers of the Companions",
+                  "The immediate family of Prophet Muhammad",
+                  "The scholars who interpreted the Quran",
+                  "The second generation of Muslims after the Companions"
+               ],
+               "answer":"The second generation of Muslims after the Companions"
+            },
+            {
+               "question":"What are 'asānīd'?",
+               "options":[
+                  "Important companions of Prophet Muhammad",
+                  "Chains of narrators through which the companions' testimony was passed down",
+                  "The major events in the life of Prophet Muhammad",
+                  "Ancient texts written by Companions"
+               ],
+               "answer":"Chains of narrators through which the companions' testimony was passed down"
+            },
+            {
+               "question":"Which Islamic denominations have different views about the ṣaḥābah?",
+               "options":[
+                  "Sunni and Sufi",
+                  "Shia and Ismaili",
+                  "Sunni and Shia",
+                  "Sufi and Shia"
+               ],
+               "answer":"Sunni and Shia"
+            },
+            {
+               "question":"What is the significance of the term 'salaf' in Islam?",
+               "options":[
+                  "It refers to the early Islamic scholars",
+                  "It represents the Quranic revelations",
+                  "It denotes the descendants of Prophet Muhammad",
+                  "It encompasses the three generations after the Companions"
+               ],
+               "answer":"It encompasses the three generations after the Companions"
+            },
+            {
+               "question":"How do Sunni and Shia Islam differ in their approach to the Companions' testimonies?",
+               "options":[
+                  "Sunni Islam disregards the testimonies, while Shia Islam values them highly",
+                  "Both Sunni and Shia Islam disregard the testimonies",
+                  "Both Sunni and Shia Islam equally value the testimonies",
+                  "Sunni Islam highly values the testimonies, while Shia Islam has reservations"
+               ],
+               "answer":"Sunni Islam highly values the testimonies, while Shia Islam has reservations"
+            },
+            {
+               "question":"What do the Tābi' al-tābi'īn represent?",
+               "options":[
+                  "The third generation of Muslims after the Companions",
+                  "The scholars who compiled the Quran",
+                  "The first generation of Muslims",
+                  "The descendants of the Companions"
+               ],
+               "answer":"The third generation of Muslims after the Companions"
+            },
+            {
+               "question":"What is the primary source of the Muslim way of life (sunnah)?",
+               "options":[
+                  "The Quran",
+                  "The Companions' personal writings",
+                  "The hadiths of the Prophet Muhammad",
+                  "The consensus of later Islamic scholars"
+               ],
+               "answer":"The hadiths of the Prophet Muhammad"
+            },
+            {
+               "question":"Which term refers to the successors of the Companions?",
+               "options":[
+                  "Tābi' al-tābi'īn",
+                  "Salaf",
+                  "Tābi'ūn",
+                  "Ṣaḥābiyyah"
+               ],
+               "answer":"Tābi'ūn"
+            },
+            {
+               "question":"What is the role of the Companions' testimony in developing sharia?",
+               "options":[
+                  "It has no role in shaping sharia",
+                  "It is a minor influence on sharia",
+                  "It directly dictates the entire sharia code",
+                  "It serves as one of the sources in shaping sharia"
+               ],
+               "answer":"It serves as one of the sources in shaping sharia"
+            },
+            {
+               "question":"Who are considered to be the closest companions of Prophet Muhammad?",
+               "options":[
+                  "The first converts to Islam",
+                  "The family members of Prophet Muhammad",
+                  "The scholars who interpreted the Quran",
+                  "The governors of Islamic territories"
+               ],
+               "answer":"The first converts to Islam"
+            },
+            {
+               "question":"What term is used to describe the followers of the Companions?",
+               "options":[
+                  "Tābi' al-tābi'īn",
+                  "Salaf",
+                  "Tābi'ūn",
+                  "Ṣaḥābiyyah"
+               ],
+               "answer":"Tābi' al-tābi'īn"
+            },
+            {
+               "question":"Which of the following is NOT a role of the Companions?",
+               "options":[
+                  "Passing down the teachings and practices of Prophet Muhammad",
+                  "Formulating the sharia",
+                  "Interpreting the Quran",
+                  "Overseeing the administration of Islamic territories"
+               ],
+               "answer":"Overseeing the administration of Islamic territories"
+            },
+            {
+               "question":"How did Islamic scholars ensure the authenticity of Companions' testimonies?",
+               "options":[
+                  "By relying solely on historical documents",
+                  "By cross-referencing with non-Muslim sources",
+                  "By tracing the asānīd (chains of narrators)",
+                  "By consulting with modern experts"
+               ],
+               "answer":"By tracing the asānīd (chains of narrators)"
+            },
+            {
+               "question":"What does 'Ṣaḥābiyyah' refer to?",
+               "options":[
+                  "The companions of female Prophets",
+                  "Female followers of Prophet Muhammad",
+                  "Scholars who studied Companions' lives",
+                  "Descendants of the Companions"
+               ],
+               "answer":"Female followers of Prophet Muhammad"
+            },
+            {
+               "question":"Which Islamic denomination emphasizes the concept of 'Imamate' related to the Companions?",
+               "options":[
+                  "Sunni Islam",
+                  "Shia Islam",
+                  "Sufi Islam",
+                  "Ismaili Islam"
+               ],
+               "answer":"Shia Islam"
+            },
+            {
+               "question":"What is the role of the Companions in the transmission of hadiths?",
+               "options":[
+                  "They did not play any role in transmitting hadiths",
+                  "They memorized and transmitted the sayings and actions of Prophet Muhammad",
+                  "They compiled the Quran",
+                  "They were responsible for interpreting the Quran"
+               ],
+               "answer":"They memorized and transmitted the sayings and actions of Prophet Muhammad"
+            },
+            {
+               "question":"What term is used to describe the scholars who came after the Tābi'ūn?",
+               "options":[
+                  "Ṣaḥābiyyah",
+                  "Salaf",
+                  "Tābi' al-tābi'īn",
+                  "Ijma"
+               ],
+               "answer":"Tābi' al-tābi'īn"
+            },
+            {
+               "question":"How did the Companions contribute to the preservation of the Quran?",
+               "options":[
+                  "By writing new chapters of the Quran",
+                  "By composing detailed commentaries on the Quran",
+                  "By memorizing and transmitting the Quran orally",
+                  "By translating the Quran into various languages"
+               ],
+               "answer":"By memorizing and transmitting the Quran orally"
+            },
+            {
+               "question":"What is the main source of information about the occasions on which the Quran was revealed?",
+               "options":[
+                  "The Companions' personal diaries",
+                  "Historical novels written by scholars",
+                  "The Quranic chapters themselves",
+                  "The hadiths narrated by the Companions"
+               ],
+               "answer":"The hadiths narrated by the Companions"
+            },
+            {
+               "question":"What is the significance of the term 'ṣaḥābiyyah'?",
+               "options":[
+                  "It refers to the Companions' knowledge of Islamic jurisprudence",
+                  "It denotes the official records of the Companions' activities",
+                  "It refers to the Companions' role in military campaigns",
+                  "It represents the female Companions of Prophet Muhammad"
+               ],
+               "answer":"It represents the female Companions of Prophet Muhammad"
+            },
+            {
+               "question":"Which term refers to the earliest generation of Muslims?",
+               "options":[
+                  "Tābi'ūn",
+                  "Salaf",
+                  "Tābi' al-tābi'īn",
+                  "Ṣaḥābiyyah"
+               ],
+               "answer":"Salaf"
+            },
+            {
+               "question":"What is the role of the Companions' testimonies in the development of fiqh?",
+               "options":[
+                  "They have no role in the development of fiqh",
+                  "They directly dictate all aspects of fiqh",
+                  "They provide insights but do not dictate fiqh entirely",
+                  "They are only consulted for political matters"
+               ],
+               "answer":"They provide insights but do not dictate fiqh entirely"
+            },
+            {
+               "question":"Which Islamic denomination emphasizes the concept of 'Caliphate' related to the Companions?",
+               "options":[
+                  "Sunni Islam",
+                  "Shia Islam",
+                  "Sufi Islam",
+                  "Ismaili Islam"
+               ],
+               "answer":"Sunni Islam"
+            },
+            {
+               "question":"How do the terms 'Ṣaḥābiyyah' and 'ṣaḥāba' differ?",
+               "options":[
+                  "They have the same meaning",
+                  "Ṣaḥābiyyah refers to female Companions, while ṣaḥāba refers to male Companions",
+                  "Ṣaḥābiyyah refers to the second generation of Muslims, while ṣaḥāba refers to the first generation",
+                  "Ṣaḥābiyyah refers to Shia Muslims, while ṣaḥāba refers to Sunni Muslims"
+               ],
+               "answer":"Ṣaḥābiyyah refers to female Companions, while ṣaḥāba refers to male Companions"
+            },
+            {
+               "question":"Which term refers to the consensus of Islamic scholars?",
+               "options":[
+                  "Tābi'ūn",
+                  "Salaf",
+                  "Ijma",
+                  "Ṣaḥābiyyah"
+               ],
+               "answer":"Ijma"
+            },
+            {
+               "question":"What is the primary basis for distinguishing between Sunni and Shia Islam?",
+               "options":[
+                  "Their attitude towards Companions' testimonies",
+                  "Their geographic locations",
+                  "Their ethnic backgrounds",
+                  "Their preferred form of worship"
+               ],
+               "answer":"Their attitude towards Companions' testimonies"
+            },
+            {
+               "question":"Which term refers to the scholars who succeeded the Tābi' al-tābi'īn?",
+               "options":[
+                  "Ṣaḥābiyyah",
+                  "Salaf",
+                  "Tābi'ūn",
+                  "Ijma"
+               ],
+               "answer":"Ṣaḥābiyyah"
+            },
+            {
+               "question":"What is the role of the Companions in transmitting the cultural practices of their time?",
+               "options":[
+                  "They played no role in transmitting cultural practices",
+                  "They deliberately avoided cultural practices",
+                  "They transmitted cultural practices alongside Islamic teachings",
+                  "They rewrote cultural practices to align with Islamic teachings"
+               ],
+               "answer":"They transmitted cultural practices alongside Islamic teachings"
+            }
+         ]
+      },
+      {
+         "category":"Democracy in Islam",
+         "categoryImage":"https://www.islamic-relief.org.uk/wp-content/uploads/2022/11/ibrahim-kaaba-feature.jpg",
+         "questions":[
+            {
+               "question":"What is the relationship between Islam and democracy according to Islamic political theorists?",
+               "options":[
+                  "Islam completely rejects democracy",
+                  "Islam and democracy are compatible",
+                  "Islam considers democracy as a Western concept",
+                  "Islam is indifferent to the concept of democracy"
+               ],
+               "answer":"Islam and democracy are compatible"
+            },
+            {
+               "question":"Which traditional Islamic principle justifies the concept of consultation in governance?",
+               "options":[
+                  "Tawhid (Monotheism)",
+                  "Jihad (Struggle)",
+                  "Sharia (Islamic Law)",
+                  "Shura (Consultation)"
+               ],
+               "answer":"Shura (Consultation)"
+            },
+            {
+               "question":"How do some Muslim scholars argue for representative government institutions within an Islamic framework?",
+               "options":[
+                  "By promoting atheism",
+                  "By rejecting any form of governance",
+                  "By emphasizing Western liberal values",
+                  "By invoking traditional Islamic concepts like shura and maslaha"
+               ],
+               "answer":"By invoking traditional Islamic concepts like shura and maslaha"
+            },
+            {
+               "question":"What is the role of maslaha in justifying democratic principles in Islam?",
+               "options":[
+                  "It promotes autocracy",
+                  "It is against democratic values",
+                  "It supports monarchy",
+                  "It upholds public interest and welfare"
+               ],
+               "answer":"It upholds public interest and welfare"
+            },
+            {
+               "question":"How do some Muslim scholars adapt Western democracy to Islamic values?",
+               "options":[
+                  "By rejecting democracy entirely",
+                  "By ignoring Islamic values",
+                  "By advocating for a theocracy",
+                  "By incorporating Islamic principles into democratic models"
+               ],
+               "answer":"By incorporating Islamic principles into democratic models"
+            },
+            {
+               "question":"What is the essence of the Islamic concept of ʿadl in governance?",
+               "options":[
+                  "Tyranny and oppression",
+                  "Corruption and deception",
+                  "Justice and fairness",
+                  "Favoritism and bias"
+               ],
+               "answer":"Justice and fairness"
+            },
+            {
+               "question":"How do some Muslim scholars define a liberal democratic model of Islamic politics?",
+               "options":[
+                  "An autocratic system",
+                  "A theocratic system",
+                  "A system that suppresses freedom of thought",
+                  "A system that values pluralism and freedom of thought"
+               ],
+               "answer":"A system that values pluralism and freedom of thought"
+            },
+            {
+               "question":"What is a common view among Muslim-majority countries regarding the compatibility of democracy and Islamic principles?",
+               "options":[
+                  "They believe democracy is against Islamic principles",
+                  "They reject democracy entirely",
+                  "They see no contradiction between democracy and Islamic principles",
+                  "They prefer a theocratic system over democracy"
+               ],
+               "answer":"They see no contradiction between democracy and Islamic principles"
+            },
+            {
+               "question":"Which term refers to the public interest and welfare in Islamic jurisprudence?",
+               "options":[
+                  "Sunnah (Tradition)",
+                  "Ijtihad (Juridical Interpretation)",
+                  "ʿUlama (Scholars)",
+                  "Maslaha (Public Interest)"
+               ],
+               "answer":"Maslaha (Public Interest)"
+            },
+            {
+               "question":"What is the meaning of the term 'shura' in the context of Islamic governance?",
+               "options":[
+                  "Divine guidance",
+                  "Consultation",
+                  "Absolute authority",
+                  "Martial law"
+               ],
+               "answer":"Consultation"
+            },
+            {
+               "question":"What do polls suggest about the desire for democracy in the Muslim world?",
+               "options":[
+                  "Muslim-majority countries reject democracy",
+                  "Muslim-majority countries desire a theocratic system",
+                  "There is a desire for democracy alongside Islamic values",
+                  "Democracy is irrelevant in the Muslim world"
+               ],
+               "answer":"There is a desire for democracy alongside Islamic values"
+            },
+            {
+               "question":"What do some Muslim thinkers advocate when it comes to the relationship between Islam and secularism?",
+               "options":[
+                  "Complete rejection of secularism",
+                  "Separation of religion and state",
+                  "The establishment of a theocratic state",
+                  "The implementation of a Western-style democracy"
+               ],
+               "answer":"Separation of religion and state"
+            },
+            {
+               "question":"Which concept is often cited as justifying democratic governance due to its emphasis on justice?",
+               "options":[
+                  "Shura (Consultation)",
+                  "Salat (Prayer)",
+                  "Zakat (Charity)",
+                  "ʿAdl (Justice)"
+               ],
+               "answer":"ʿAdl (Justice)"
+            },
+            {
+               "question":"How do some Muslim scholars justify the compatibility of democratic values with Islamic principles?",
+               "options":[
+                  "By ignoring Islamic principles",
+                  "By embracing Western values entirely",
+                  "By distorting Islamic teachings",
+                  "By interpreting Islamic teachings to align with democratic values"
+               ],
+               "answer":"By interpreting Islamic teachings to align with democratic values"
+            },
+            {
+               "question":"Which principle emphasizes the importance of consensus and agreement in Islamic governance?",
+               "options":[
+                  "Ijma (Consensus)",
+                  "Jihad (Struggle)",
+                  "Tawhid (Monotheism)",
+                  "ʿUlama (Scholars)"
+               ],
+               "answer":"Ijma (Consensus)"
+            },
+            {
+               "question":"What is the term for the Islamic concept of striving for moral and spiritual excellence?",
+               "options":[
+                  "Shura (Consultation)",
+                  "Hijrah (Migration)",
+                  "Ijtihad (Juridical Interpretation)",
+                  "Ihsan (Excellence)"
+               ],
+               "answer":"Ihsan (Excellence)"
+            },
+            {
+               "question":"What is the primary role of 'ijtihad' in the context of democracy in Islam?",
+               "options":[
+                  "To suppress democratic values",
+                  "To interpret Islamic teachings",
+                  "To enforce a theocratic system",
+                  "To promote autocracy"
+               ],
+               "answer":"To interpret Islamic teachings"
+            },
+            {
+               "question":"Which term refers to the struggle for moral and social reform within Islamic societies?",
+               "options":[
+                  "Tawhid (Monotheism)",
+                  "Ijtihad (Juridical Interpretation)",
+                  "Jihad (Struggle)",
+                  "Fiqh (Jurisprudence)"
+               ],
+               "answer":"Jihad (Struggle)"
+            },
+            {
+               "question":"How do some Muslim scholars reconcile the idea of individual freedom with Islamic values?",
+               "options":[
+                  "They reject individual freedom entirely",
+                  "They prioritize individual freedom over Islamic values",
+                  "They interpret Islamic teachings to include individual freedom",
+                  "They promote strict adherence to traditional practices"
+               ],
+               "answer":"They interpret Islamic teachings to include individual freedom"
+            },
+            {
+               "question":"What is the role of 'sharia' in the discourse about democracy in Islam?",
+               "options":[
+                  "Sharia opposes democracy",
+                  "Sharia is indifferent to democracy",
+                  "Sharia is synonymous with democracy",
+                  "Sharia is interpreted differently in relation to democracy"
+               ],
+               "answer":"Sharia is interpreted differently in relation to democracy"
+            },
+            {
+               "question":"What does the concept of 'ijma' refer to in Islamic governance?",
+               "options":[
+                  "Intellectual curiosity",
+                  "Consensus of Islamic scholars",
+                  "Individual interpretation of Islamic teachings",
+                  "Moral excellence"
+               ],
+               "answer":"Consensus of Islamic scholars"
+            },
+            {
+               "question":"How do some Muslim scholars view pluralism within the context of Islamic politics?",
+               "options":[
+                  "They reject pluralism entirely",
+                  "They support pluralism without any reservations",
+                  "They promote a theocratic approach",
+                  "They view pluralism as compatible with Islamic values"
+               ],
+               "answer":"They view pluralism as compatible with Islamic values"
+            },
+            {
+               "question":"What is the primary argument of Muslim scholars who advocate for the compatibility of democracy and Islam?",
+               "options":[
+                  "They emphasize the rejection of Western values",
+                  "They focus on preserving theocracy",
+                  "They emphasize traditional Islamic principles like shura and maslaha",
+                  "They promote an authoritarian approach"
+               ],
+               "answer":"They emphasize traditional Islamic principles like shura and maslaha"
+            },
+            {
+               "question":"Which term refers to the body of Islamic jurisprudence?",
+               "options":[
+                  "Hadith (Traditions of the Prophet)",
+                  "Fiqh (Jurisprudence)",
+                  "Ijma (Consensus)",
+                  "Khilafah (Caliphate)"
+               ],
+               "answer":"Fiqh (Jurisprudence)"
+            },
+            {
+               "question":"What is the essence of the concept of 'maslaha' in Islamic governance?",
+               "options":[
+                  "Individual desires",
+                  "Public interest",
+                  "Secular values",
+                  "Monarchical rule"
+               ],
+               "answer":"Public interest"
+            },
+            {
+               "question":"What role does the concept of 'ijtihad' play in shaping Islamic democracy?",
+               "options":[
+                  "It promotes extremism",
+                  "It enforces a theocratic system",
+                  "It allows for reinterpretation of Islamic teachings in a democratic context",
+                  "It disregards Islamic teachings"
+               ],
+               "answer":"It allows for reinterpretation of Islamic teachings in a democratic context"
+            }
+         ]
+      },
+      {
+         "category":"Hajj (Pilgrimage)",
+         "categoryImage":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRcKsoWVDpgVvpMii-qap7G9ekBg8Tzo-YhNmA2uTHwU6c0V1MoKDcPljpoVp0-dDY8",
+         "questions": [
+            {
+               "question": "What is Hajj?",
+               "options": [
+                  "A voluntary act of worship",
+                  "A financial obligation in Islam",
+                  "A pilgrimage to Mecca",
+                  "A daily prayer"
+               ],
+               "answer": "A pilgrimage to Mecca"
+            },
+            {
+               "question": "Which month does the hajj pilgrimage begin?",
+               "options": [
+                  "Ramadan",
+                  "Shawwal",
+                  "Dhū al-Ḥijjah",
+                  "Muharram"
+               ],
+               "answer": "Dhū al-Ḥijjah"
+            },
+            {
+               "question": "How many fundamental practices are there in Islam?",
+               "options": [
+                  "Three",
+                  "Five",
+                  "Seven",
+                  "Ten"
+               ],
+               "answer": "Five"
+            },
+            {
+               "question": "What is the hajj considered among the Five Pillars of Islam?",
+               "options": [
+                  "The first pillar",
+                  "The second pillar",
+                  "The third pillar",
+                  "The fifth pillar"
+               ],
+               "answer": "The fifth pillar"
+            },
+            {
+               "question": "When does the hajj pilgrimage end?",
+               "options": [
+                  "7th day of Dhū al-Ḥijjah",
+                  "10th day of Dhū al-Ḥijjah",
+                  "12th day of Dhū al-Ḥijjah",
+                  "15th day of Dhū al-Ḥijjah"
+               ],
+               "answer": "12th day of Dhū al-Ḥijjah"
+            },
+            {
+               "question": "Who is required to perform the hajj?",
+               "options": [
+                  "Only Muslims under 30",
+                  "All adult Muslims",
+                  "Only Muslim scholars",
+                  "Only Muslim leaders"
+               ],
+               "answer": "All adult Muslims"
+            },
+            {
+               "question": "What must be considered before making the hajj?",
+               "options": [
+                  "Physical and financial ability",
+                  "Being a Muslim leader",
+                  "A certain age requirement",
+                  "Expert knowledge of Islamic law"
+               ],
+               "answer": "Physical and financial ability"
+            },
+            {
+               "question": "Under what circumstances can someone perform hajj by proxy?",
+               "options": [
+                  "If they are over 70 years old",
+                  "If they are not Muslim",
+                  "If their absence will not burden their family",
+                  "If they are physically unable to travel"
+               ],
+               "answer": "If their absence will not burden their family"
+            },
+            {
+               "question": "Which Islamic month does hajj take place?",
+               "options": [
+                  "Ramadan",
+                  "Dhū al-Ḥijjah",
+                  "Shawwal",
+                  "Muharram"
+               ],
+               "answer": "Dhū al-Ḥijjah"
+            },
+            {
+               "question": "What is the final month of the Islamic year?",
+               "options": [
+                  "Ramadan",
+                  "Shawwal",
+                  "Dhū al-Ḥijjah",
+                  "Muharram"
+               ],
+               "answer": "Dhū al-Ḥijjah"
+            },
+            {
+               "question": "Which days of the Islamic month does the hajj pilgrimage take place?",
+               "options": [
+                  "1st to 5th",
+                  "7th to 12th",
+                  "15th to 20th",
+                  "25th to 30th"
+               ],
+               "answer": "7th to 12th"
+            },
+            {
+               "question": "What are the Five Pillars of Islam?",
+               "options": [
+                  "Prayer, fasting, almsgiving, pilgrimage, faith",
+                  "Prayer, fasting, charity, jihad, belief in angels",
+                  "Prayer, fasting, almsgiving, pilgrimage, belief in prophets",
+                  "Prayer, fasting, almsgiving, pilgrimage, jihad"
+               ],
+               "answer": "Prayer, fasting, almsgiving, pilgrimage, faith"
+            },
+            {
+               "question": "How many times is the hajj pilgrimage required in a Muslim's lifetime?",
+               "options": [
+                  "Once",
+                  "Twice",
+                  "Three times",
+                  "As many times as desired"
+               ],
+               "answer": "Once"
+            },
+            {
+               "question": "Who is exempt from performing the hajj?",
+               "options": [
+                  "All Muslims",
+                  "Only Muslim leaders",
+                  "Only Muslim scholars",
+                  "Muslims under 30"
+               ],
+               "answer": "Muslims under 30"
+            },
+            {
+               "question": "Under what condition can someone perform hajj by proxy?",
+               "options": [
+                  "Being physically unable to travel",
+                  "Having expert knowledge of Islamic law",
+                  "Being a Muslim leader",
+                  "Having a certain age requirement"
+               ],
+               "answer": "Being physically unable to travel"
+            },
+            {
+               "question": "What is the purpose of appointing a proxy for hajj?",
+               "options": [
+                  "To earn extra rewards",
+                  "To complete the pilgrimage on behalf of someone",
+                  "To save money on the pilgrimage",
+                  "To avoid going to Mecca"
+               ],
+               "answer": "To complete the pilgrimage on behalf of someone"
+            },
+            {
+               "question": "What are the days of the week when hajj begins and ends?",
+               "options": [
+                  "Thursday to Tuesday",
+                  "Saturday to Thursday",
+                  "Friday to Wednesday",
+                  "Sunday to Friday"
+               ],
+               "answer": "Sunday to Friday"
+            },
+            {
+               "question": "What is the name of the Islamic month in which hajj begins?",
+               "options": [
+                  "Ramadan",
+                  "Dhū al-Ḥijjah",
+                  "Shawwal",
+                  "Muharram"
+               ],
+               "answer": "Dhū al-Ḥijjah"
+            },
+            {
+               "question": "How long does the hajj pilgrimage last?",
+               "options": [
+                  "One day",
+                  "Three days",
+                  "Five days",
+                  "Seven days"
+               ],
+               "answer": "Five days"
+            },
+            {
+               "question": "What is the significance of the 12th day of Dhū al-Ḥijjah?",
+               "options": [
+                  "Eid al-Fitr",
+                  "Eid al-Adha",
+                  "End of Ramadan",
+                  "End of hajj"
+               ],
+               "answer": "Eid al-Adha"
+            },
+            {
+               "question": "Who is required to perform the hajj pilgrimage?",
+               "options": [
+                  "All Muslims",
+                  "Muslims under 30",
+                  "Only Muslim scholars",
+                  "Only Muslim leaders"
+               ],
+               "answer": "All Muslims"
+            },
+            {
+               "question": "What must a person consider before making the hajj pilgrimage?",
+               "options": [
+                  "Being a Muslim leader",
+                  "Expert knowledge of Islamic law",
+                  "Physical and financial ability",
+                  "A certain age requirement"
+               ],
+               "answer": "Physical and financial ability"
+            },
+            {
+               "question": "What is the purpose of hajj?",
+               "options": [
+                  "To visit family",
+                  "To earn worldly gains",
+                  "To fulfill a spiritual duty",
+                  "To experience a vacation"
+               ],
+               "answer": "To fulfill a spiritual duty"
+            },
+            {
+               "question": "Under what condition can someone perform hajj by proxy?",
+               "options": [
+                  "If they are over 70 years old",
+                  "If they are not Muslim",
+                  "If their absence will not burden their family",
+                  "If they are physically unable to travel"
+               ],
+               "answer": "If their absence will not burden their family"
+            },
+            {
+               "question": "What does the hajj pilgrimage involve?",
+               "options": [
+                  "Performing certain prayers",
+                  "Reciting specific verses from the Quran",
+                  "A series of rites and rituals",
+                  "Sacrificing an animal"
+               ],
+               "answer": "A series of rites and rituals"
+            },
+            {
+               "question": "What is the significance of the Kaaba in hajj?",
+               "options": [
+                  "It is a place of meditation",
+                  "It is the starting point of hajj",
+                  "Pilgrims walk around it during tawaf",
+                  "It is where the hajj pilgrimage ends"
+               ],
+               "answer": "Pilgrims walk around it during tawaf"
+            },
+            {
+               "question": "How many days does the hajj pilgrimage last?",
+               "options": [
+                  "Three to four days",
+                  "Five to six days",
+                  "Seven to eight days",
+                  "Nine to ten days"
+               ],
+               "answer": "Five to six days"
+            },
+            {
+               "question": "Who is eligible to perform hajj?",
+               "options": [
+                  "Anyone who desires",
+                  "Only those who have not performed it before",
+                  "Muslims under 50 years old",
+                  "Physically and financially able Muslims"
+               ],
+               "answer": "Physically and financially able Muslims"
+            },
+            {
+               "question": "What is the importance of hajj in Islam?",
+               "options": [
+                  "It is a means of gaining political power",
+                  "It is a way to show off to others",
+                  "It is an opportunity for tourism",
+                  "It is a spiritual duty"
+               ],
+               "answer": "It is a spiritual duty"
+            }
+         ]
+      }
+
+   ]
+}

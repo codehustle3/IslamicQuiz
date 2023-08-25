@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Islamic Quiz</string>
+    <string name="salam">As-Salāmu ʿAlaykum, </string>
+    <string name="continue_quiz">Continue Quiz </string>
+    <string name="quiz_categories">Quiz Categories </string>
+    <string name="test_knowledge">Let\'s test your islamic knowledge</string>
+    <string name="ten_question">10 Question</string>
+    <string name="question_time">10 min</string>
+    <string name="explanation">Brief explanation about this quiz</string>
+    <string name="quiz_detail">Quiz Details</string>
+    <string name="ans_points">10 point for a correct answer</string>
+    <string name="total_time">Total duration of the quiz</string>
+    <string name="win_star">Answer all questions correctly</string>
+    <string name="win_star_title">Win 10 star</string>
+    <string name="detail_quiz">Please read the text below carefully so you can understand it</string>
+    <string name="points">10 point awarded for a correct answer and no marks for a incorrect answer</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="end_quiz">End Quiz</string>
+    <string name="quiz_login">LOGIN </string>
+    <string name="quiz_sign_in">SIGNUP </string>
+    <string name="quiz_history">Quiz History </string>
+    <string name="quiz_Result">Quiz Result </string>
+</resources>
